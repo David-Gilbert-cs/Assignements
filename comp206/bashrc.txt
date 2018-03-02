@@ -1,0 +1,17 @@
+# Source global definitions
+if [ -f /usr/socs/Profile ]; then
+        . /usr/socs/Profile
+fi
+
+# User specific aliases and functions
+
+PS1="\[\033[1;36m\] Master \u\w$ "
+
+alias lsa='ls -la'
+
+
+who|grep '\(^dgilb\|^schen\|^llee\)'
+date>>MyLoginHistory.txt
+Xdg-open https://www.slant.co/versus/42/44/~vem_vs_ntepad
+~
+~

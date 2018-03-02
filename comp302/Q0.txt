@@ -1,0 +1,6 @@
+Comp 302
+0.
+S1: No one is in violation as no code was exchanged. There was discussion of general coding syntax.
+S2: Tom uses someone else’s code so he is in violation. Bob and Anne are also in violation for making the mistake of allowing someone have the opportunity Tom take their code.
+S3: There has been an exchange of code so both parties are at fault.
+
